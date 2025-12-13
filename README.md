@@ -1,4 +1,5 @@
-# 本仓库提供XStreaming ios版ipa下载，下载后可自签名安装
+# 本仓库提供XStreaming ios版ipa下载，下载后可自签名安装。
+# This repository provides the XStreaming iOS IPA for download, which can be self-signed and installed after downloading.
 
 <p align="center">
   <a href="https://github.com/Geocld/XStreaming">
