@@ -1,3 +1,5 @@
+# 本仓库提供XStreaming ios版ipa下载，下载后可自签名安装
+
 <p align="center">
   <a href="https://github.com/Geocld/XStreaming">
     <img src="https://raw.githubusercontent.com/Geocld/XStreaming/main/images/logo.png" width="258">
